@@ -22,7 +22,7 @@
     "require-dev": {},
     "autoload": {
         "psr-0": {
-            "JiveSDK": "src/"
+            "Jive": "src/"
         }
     }
 }
